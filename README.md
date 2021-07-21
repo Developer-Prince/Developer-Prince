@@ -8,7 +8,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/PrinceS00664399?label=Follow)](https://twitter.com/PrinceS00664399)
 [![Linkedin: Prince](https://img.shields.io/badge/-PrinceSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-sharma-392171199/)](https://www.linkedin.com/in/prince-sharma-392171199/)
 ![GitHub followers](https://img.shields.io/github/followers/Developer-Prince?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://developer-prince.github.io/Dev-Prince/)](https://developer-prince.github.io/Dev-Prince/)
 
 
 
